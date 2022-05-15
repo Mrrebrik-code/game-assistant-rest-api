@@ -1,0 +1,23 @@
+{
+  "name": "game-assistant",
+  "version": "0.0.1",
+  "description": "game assistant rest-api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrrebrik-code/game-assistant-rest-api.git"
+  },
+  "author": "Mrrebrik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrrebrik-code/game-assistant-rest-api/issues"
+  },
+  "homepage": "https://github.com/Mrrebrik-code/game-assistant-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
